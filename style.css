@@ -1,4 +1,4 @@
-: :root {
+:root {
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #167BF7;
@@ -12,4 +12,11 @@ body {
 * {
     margin: 0;
     padding: 0;
+}
+
+.principal {
+    background-image: url("WhatsApp Image 2023-05-23 at 21.53.51.jpeg");
+}
+.container {
+    
 }
